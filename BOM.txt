@@ -1,0 +1,9 @@
+Serpentine BOM
+
+	⁃	M8 Ruthex-Nut or similar 
+	⁃	3D printed part „pressure-foot“
+	⁃	M8 x 43 locking lever 
+	⁃	M8 rivet nut
+	⁃	Bent aluminium body
+
+Serpentine by Leo Mühlfeld for Studio Gemeindebau
