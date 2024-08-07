@@ -39,4 +39,4 @@ CNC-bent sheet aluminum lamp with clamping mechanism for accentuated lighting.
 - The Aluminium part might have sharp edges.
 
 ## Credits
-Design by [Leo Mühlfeld](https://leomuehlfeld.at) for [Studio Gemeindebau](https://gemeindebau.im)
+Design by [Leo Mühlfeld](https://leomuehlfeld.at)
